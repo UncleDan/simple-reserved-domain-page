@@ -7,22 +7,22 @@
   [headers.values]
     Cache-Control = "public, max-age=31536000"
 [[redirects]]
-  from = "http://zfurdesign.it/*"
-  to = "https://www.zabinifur.it/:splat"
+  from = "http://lolli.cloud/*"
+  to = "https://www.danielelolli.it/:splat"
   status = 301
   force = true
 [[redirects]]
-  from = "http://www.zfurdesign.it/*"
-  to = "https://www.zabinifur.it/:splat"
+  from = "http://www.lolli.cloud/*"
+  to = "https://www.danielelolli.it/:splat"
   status = 301
   force = true
 [[redirects]]
-  from = "https://zfurdesign.it/*"
-  to = "https://www.zabinifur.it/:splat"
+  from = "https://lolli.cloud/*"
+  to = "https://www.danielelolli.it/:splat"
   status = 301
   force = true
 [[redirects]]
-  from = "https://www-zfurdesign-it.netlify.app/*"
-  to = "https://www.zabinifur.it/:splat"
+  from = "https://www-lolli-cloud.netlify.app/*"
+  to = "https://www.danielelolli.it/:splat"
   status = 301
   force = true
