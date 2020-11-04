@@ -7,22 +7,22 @@
   [headers.values]
     Cache-Control = "public, max-age=31536000"
 [[redirects]]
-  from = "http://lolli.cloud/*"
+  from = "http://uncledan.it/*"
   to = "https://www.danielelolli.it/:splat"
   status = 301
   force = true
 [[redirects]]
-  from = "http://www.lolli.cloud/*"
+  from = "http://www.uncledan.it/*"
   to = "https://www.danielelolli.it/:splat"
   status = 301
   force = true
 [[redirects]]
-  from = "https://lolli.cloud/*"
+  from = "https://uncledan.it/*"
   to = "https://www.danielelolli.it/:splat"
   status = 301
   force = true
 [[redirects]]
-  from = "https://www-lolli-cloud.netlify.app/*"
+  from = "https://www-uncledan-it.netlify.app/*"
   to = "https://www.danielelolli.it/:splat"
   status = 301
   force = true
