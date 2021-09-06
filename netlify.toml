@@ -27,7 +27,7 @@
   status = 301
   force = true
 [[redirects]]
-  from = "https:/uncledan.netlify.app/*"
+  from = "https:/danielelolli.netlify.app/*"
   to = "https://www.uncledan.it/:splat"
   status = 301
   force = true
