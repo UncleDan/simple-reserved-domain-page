@@ -22,7 +22,7 @@
   status = 301
   force = true
 [[redirects]]
-  from = "https://www-zfurdesign-it.netlify.app/*"
+  from = "https://zfurdesign.netlify.app/*"
   to = "https://www.zabinifur.it/:splat"
   status = 301
   force = true
